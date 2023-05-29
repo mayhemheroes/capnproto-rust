@@ -1,0 +1,5 @@
+project: capnproto-rust
+target: test_all_types
+
+cmds:
+    - cmd: /test_all_types

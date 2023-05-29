@@ -1,0 +1,5 @@
+project: capnproto-rust
+target: canonicalize
+
+cmds:
+    - cmd: /canonicalize
